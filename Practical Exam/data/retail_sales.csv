@@ -1,0 +1,1001 @@
+Date,Product,Category,Price,Quantity_Sold,Total_Sales
+2025-01-01,Tea (500g),Groceries,437.44,17,7436.48
+2025-01-02,Water Bottle,Home & Kitchen,453.13,17,7703.21
+2025-01-03,Water Bottle,Home & Kitchen,260.67,20,5213.4
+2025-01-03,Backpack,Books & Stationery,617.27,13,8024.51
+2025-01-03,Mouse,Electronics,1105.59,6,6633.54
+2025-01-04,Keyboard,Electronics,2683.57,8,21468.56
+2025-01-06,Cooking Oil (1L),Groceries,147.96,5,739.8
+2025-01-09,Jacket,Clothing,1931.93,15,28978.95
+2025-01-10,Speaker,Electronics,1314.6,5,6573.0
+2025-01-10,Speaker,Electronics,4203.43,21,88272.03
+2025-01-11,Exam Guide,Books & Stationery,587.93,4,2351.72
+2025-01-12,Jeans,Clothing,2081.41,19,39546.79
+2025-01-12,Smartwatch,Electronics,1929.18,5,9645.9
+2025-01-13,Headphones,Electronics,3634.57,11,39980.27
+2025-01-13,Sugar (1kg),Groceries,59.61,13,774.93
+2025-01-15,Mixer Grinder,Home & Kitchen,3009.14,6,18054.84
+2025-01-15,Cookware Set,Home & Kitchen,1881.03,18,33858.54
+2025-01-16,Smartphone,Electronics,46563.68,18,838146.24
+2025-01-16,Smartwatch,Electronics,7164.7,15,107470.5
+2025-01-16,Electric Kettle,Home & Kitchen,2259.61,5,11298.05
+2025-01-17,Smartphone,Electronics,17277.46,15,259161.9
+2025-01-17,Mouse,Electronics,1689.59,11,18585.49
+2025-01-18,Bedsheet,Home & Kitchen,1049.48,10,10494.8
+2025-01-20,Mixer Grinder,Home & Kitchen,6472.21,18,116499.78
+2025-01-21,Backpack,Books & Stationery,2039.59,23,46910.57
+2025-01-21,Smartphone,Electronics,24329.04,8,194632.32
+2025-01-22,Speaker,Electronics,2270.65,11,24977.15
+2025-01-23,Rice (5kg),Groceries,451.83,10,4518.3
+2025-01-23,Coffee (200g),Groceries,355.14,3,1065.42
+2025-01-24,Cooking Oil (1L),Groceries,205.49,16,3287.84
+2025-01-25,Keyboard,Electronics,519.13,14,7267.82
+2025-01-26,Desk Lamp,Home & Kitchen,1535.08,14,21491.12
+2025-01-26,Cookware Set,Home & Kitchen,3352.0,12,40224.0
+2025-01-26,Smartwatch,Electronics,8683.33,16,138933.28
+2025-01-27,Bedsheet,Home & Kitchen,1144.64,9,10301.76
+2025-01-27,Tea (500g),Groceries,318.36,4,1273.44
+2025-01-27,Mixer Grinder,Home & Kitchen,3109.84,4,12439.36
+2025-01-27,Exam Guide,Books & Stationery,321.07,19,6100.33
+2025-01-27,Sugar (1kg),Groceries,56.87,18,1023.66
+2025-01-28,Sugar (1kg),Groceries,58.03,10,580.3
+2025-01-28,Power Bank,Electronics,1042.06,20,20841.2
+2025-01-30,Mixer Grinder,Home & Kitchen,4889.35,13,63561.55
+2025-01-30,Rice (5kg),Groceries,299.91,10,2999.1
+2025-01-31,Bedsheet,Home & Kitchen,2272.83,25,56820.75
+2025-01-31,Laptop,Electronics,50943.88,8,407551.04
+2025-02-01,Headphones,Electronics,1522.87,21,31980.27
+2025-02-02,Mixer Grinder,Home & Kitchen,6460.87,21,135678.27
+2025-02-03,Sugar (1kg),Groceries,50.2,9,451.8
+2025-02-03,Sneakers,Clothing,3420.56,19,64990.64
+2025-02-03,Backpack,Books & Stationery,1586.06,22,34893.32
+2025-02-04,Power Bank,Electronics,727.85,20,14557.0
+2025-02-05,T-Shirt,Clothing,673.71,5,3368.55
+2025-02-07,Headphones,Electronics,4853.06,15,72795.9
+2025-02-07,Notebook,Books & Stationery,113.74,9,1023.66
+2025-02-08,Mixer Grinder,Home & Kitchen,4498.43,18,80971.74
+2025-02-08,Mouse,Electronics,1701.74,10,17017.4
+2025-02-09,Mouse,Electronics,1149.91,9,10349.19
+2025-02-10,Mixer Grinder,Home & Kitchen,2256.67,21,47390.07
+2025-02-11,Mixer Grinder,Home & Kitchen,2122.51,21,44572.71
+2025-02-11,Sugar (1kg),Groceries,52.73,17,896.41
+2025-02-12,Desk Lamp,Home & Kitchen,569.48,19,10820.12
+2025-02-12,Tea (500g),Groceries,219.99,5,1099.95
+2025-02-12,Jeans,Clothing,1243.5,7,8704.5
+2025-02-12,Coffee (200g),Groceries,344.01,24,8256.24
+2025-02-13,Headphones,Electronics,3003.01,24,72072.24
+2025-02-14,Laptop,Electronics,54522.69,16,872363.04
+2025-02-15,Speaker,Electronics,5418.76,1,5418.76
+2025-02-15,Mixer Grinder,Home & Kitchen,3790.81,9,34117.29
+2025-02-16,Mixer Grinder,Home & Kitchen,3718.99,5,18594.95
+2025-02-16,Cooking Oil (1L),Groceries,163.23,10,1632.3
+2025-02-17,Pen Pack,Books & Stationery,221.21,8,1769.68
+2025-02-18,Keyboard,Electronics,2028.58,3,6085.74
+2025-02-19,Wheat Flour (5kg),Groceries,185.75,3,557.25
+2025-02-19,Desk Lamp,Home & Kitchen,881.24,22,19387.28
+2025-02-19,Rice (5kg),Groceries,429.34,23,9874.82
+2025-02-20,T-Shirt,Clothing,257.69,22,5669.18
+2025-02-21,Keyboard,Electronics,3100.55,6,18603.3
+2025-02-22,Tea (500g),Groceries,375.64,7,2629.48
+2025-02-22,Water Bottle,Home & Kitchen,523.87,15,7858.05
+2025-02-23,Desk Lamp,Home & Kitchen,1246.53,9,11218.77
+2025-02-23,Jacket,Clothing,1578.91,9,14210.19
+2025-02-23,Electric Kettle,Home & Kitchen,2326.84,6,13961.04
+2025-02-23,Water Bottle,Home & Kitchen,403.78,20,8075.6
+2025-02-24,Jacket,Clothing,5709.93,20,114198.6
+2025-02-24,Wheat Flour (5kg),Groceries,306.73,12,3680.76
+2025-02-25,Sneakers,Clothing,3656.76,15,54851.4
+2025-02-26,Speaker,Electronics,3311.11,20,66222.2
+2025-02-27,Tea (500g),Groceries,400.4,24,9609.6
+2025-02-27,Speaker,Electronics,4192.53,25,104813.25
+2025-02-27,Speaker,Electronics,5076.15,25,126903.75
+2025-02-28,Sugar (1kg),Groceries,64.95,9,584.55
+2025-02-28,Calculator,Books & Stationery,1060.08,6,6360.48
+2025-03-01,Backpack,Books & Stationery,2121.38,9,19092.42
+2025-03-02,Laptop,Electronics,38549.65,21,809542.65
+2025-03-02,Calculator,Books & Stationery,1012.3,11,11135.3
+2025-03-02,Keyboard,Electronics,3388.32,14,47436.48
+2025-03-02,Calculator,Books & Stationery,1094.9,21,22992.9
+2025-03-03,Power Bank,Electronics,1560.89,12,18730.68
+2025-03-03,Jeans,Clothing,1797.8,23,41349.4
+2025-03-04,Speaker,Electronics,3422.72,9,30804.48
+2025-03-04,Jeans,Clothing,1807.69,1,1807.69
+2025-03-05,Wheat Flour (5kg),Groceries,311.75,16,4988.0
+2025-03-06,Power Bank,Electronics,1128.86,23,25963.78
+2025-03-06,Calculator,Books & Stationery,829.58,21,17421.18
+2025-03-07,Cookware Set,Home & Kitchen,1857.06,7,12999.42
+2025-03-07,Desk Lamp,Home & Kitchen,1352.67,20,27053.4
+2025-03-09,Desk Lamp,Home & Kitchen,1283.24,11,14115.64
+2025-03-09,Jacket,Clothing,3453.66,21,72526.86
+2025-03-10,Exam Guide,Books & Stationery,233.95,16,3743.2
+2025-03-12,Exam Guide,Books & Stationery,429.31,6,2575.86
+2025-03-12,Pen Pack,Books & Stationery,153.61,20,3072.2
+2025-03-12,Mixer Grinder,Home & Kitchen,6466.82,5,32334.1
+2025-03-12,Cookware Set,Home & Kitchen,1474.17,2,2948.34
+2025-03-12,Rice (5kg),Groceries,489.31,23,11254.13
+2025-03-12,Keyboard,Electronics,2860.93,7,20026.51
+2025-03-15,Calculator,Books & Stationery,502.35,5,2511.75
+2025-03-15,Sneakers,Clothing,2415.14,9,21736.26
+2025-03-16,Rice (5kg),Groceries,344.85,25,8621.25
+2025-03-16,Water Bottle,Home & Kitchen,503.26,25,12581.5
+2025-03-17,Cooking Oil (1L),Groceries,185.49,15,2782.35
+2025-03-17,Notebook,Books & Stationery,44.47,16,711.52
+2025-03-17,Headphones,Electronics,1426.9,11,15695.9
+2025-03-18,Keyboard,Electronics,2411.65,13,31351.45
+2025-03-19,Mouse,Electronics,1183.72,25,29593.0
+2025-03-19,Hoodie,Clothing,2677.09,7,18739.63
+2025-03-21,Rice (5kg),Groceries,408.45,12,4901.4
+2025-03-22,Desk Lamp,Home & Kitchen,515.66,14,7219.24
+2025-03-22,Exam Guide,Books & Stationery,667.5,10,6675.0
+2025-03-22,Smartphone,Electronics,27244.41,23,626621.43
+2025-03-22,Keyboard,Electronics,1332.4,10,13324.0
+2025-03-22,Tea (500g),Groceries,213.7,13,2778.1
+2025-03-22,Smartphone,Electronics,24766.19,19,470557.61
+2025-03-22,T-Shirt,Clothing,443.17,21,9306.57
+2025-03-22,Desk Lamp,Home & Kitchen,1783.87,24,42812.88
+2025-03-24,Sugar (1kg),Groceries,57.32,21,1203.72
+2025-03-24,Cookware Set,Home & Kitchen,2171.19,22,47766.18
+2025-03-25,Mouse,Electronics,1419.38,2,2838.76
+2025-03-25,Smartphone,Electronics,55737.52,1,55737.52
+2025-03-25,Coffee (200g),Groceries,358.08,20,7161.6
+2025-03-28,Electric Kettle,Home & Kitchen,1834.54,21,38525.34
+2025-03-28,Jeans,Clothing,1710.38,25,42759.5
+2025-03-29,Keyboard,Electronics,2933.43,10,29334.3
+2025-03-29,Shirt,Clothing,818.43,22,18005.46
+2025-03-29,Tea (500g),Groceries,182.74,7,1279.18
+2025-03-29,Cooking Oil (1L),Groceries,112.55,14,1575.7
+2025-03-30,T-Shirt,Clothing,556.19,8,4449.52
+2025-03-30,Electric Kettle,Home & Kitchen,1496.29,7,10474.03
+2025-03-31,Mouse,Electronics,1642.95,15,24644.25
+2025-03-31,Electric Kettle,Home & Kitchen,2033.2,18,36597.6
+2025-04-01,Notebook,Books & Stationery,134.99,12,1619.88
+2025-04-02,Jacket,Clothing,2927.08,2,5854.16
+2025-04-03,Rice (5kg),Groceries,329.5,4,1318.0
+2025-04-03,Notebook,Books & Stationery,76.63,21,1609.23
+2025-04-03,Jeans,Clothing,1186.22,2,2372.44
+2025-04-04,Exam Guide,Books & Stationery,616.42,15,9246.3
+2025-04-05,Wheat Flour (5kg),Groceries,263.05,2,526.1
+2025-04-05,Calculator,Books & Stationery,677.3,12,8127.6
+2025-04-06,Shirt,Clothing,1137.79,3,3413.37
+2025-04-06,Laptop,Electronics,78445.39,24,1882689.36
+2025-04-06,Mouse,Electronics,1605.36,9,14448.24
+2025-04-06,Coffee (200g),Groceries,297.67,1,297.67
+2025-04-08,Exam Guide,Books & Stationery,621.91,22,13682.02
+2025-04-08,Shirt,Clothing,1614.32,23,37129.36
+2025-04-08,Wheat Flour (5kg),Groceries,235.75,13,3064.75
+2025-04-10,Wheat Flour (5kg),Groceries,262.1,16,4193.6
+2025-04-10,Electric Kettle,Home & Kitchen,1799.88,5,8999.4
+2025-04-11,Electric Kettle,Home & Kitchen,1876.22,21,39400.62
+2025-04-11,Wheat Flour (5kg),Groceries,330.08,15,4951.2
+2025-04-11,Desk Lamp,Home & Kitchen,1605.89,18,28906.02
+2025-04-12,Exam Guide,Books & Stationery,279.86,12,3358.32
+2025-04-12,Coffee (200g),Groceries,367.36,20,7347.2
+2025-04-13,Shirt,Clothing,1061.5,16,16984.0
+2025-04-13,Speaker,Electronics,4791.46,2,9582.92
+2025-04-13,Bedsheet,Home & Kitchen,680.76,4,2723.04
+2025-04-13,Laptop,Electronics,57914.28,19,1100371.32
+2025-04-15,Power Bank,Electronics,2418.7,11,26605.7
+2025-04-15,Speaker,Electronics,2261.59,24,54278.16
+2025-04-15,Tea (500g),Groceries,239.01,14,3346.14
+2025-04-15,Headphones,Electronics,2027.89,3,6083.67
+2025-04-16,Power Bank,Electronics,1895.93,22,41710.46
+2025-04-16,Sneakers,Clothing,2112.4,25,52810.0
+2025-04-17,Pen Pack,Books & Stationery,195.0,10,1950.0
+2025-04-17,Speaker,Electronics,5370.94,21,112789.74
+2025-04-19,Wheat Flour (5kg),Groceries,309.53,17,5262.01
+2025-04-19,Pen Pack,Books & Stationery,128.21,16,2051.36
+2025-04-20,Bedsheet,Home & Kitchen,1279.24,12,15350.88
+2025-04-20,Desk Lamp,Home & Kitchen,1715.6,6,10293.6
+2025-04-20,Backpack,Books & Stationery,2001.93,25,50048.25
+2025-04-20,Laptop,Electronics,49919.61,20,998392.2
+2025-04-21,Cooking Oil (1L),Groceries,201.68,14,2823.52
+2025-04-21,T-Shirt,Clothing,401.24,23,9228.52
+2025-04-22,Keyboard,Electronics,2839.81,19,53956.39
+2025-04-22,Sugar (1kg),Groceries,55.95,3,167.85
+2025-04-22,Smartphone,Electronics,33338.93,11,366728.23
+2025-04-22,Laptop,Electronics,77459.0,21,1626639.0
+2025-04-23,Tea (500g),Groceries,247.68,6,1486.08
+2025-04-23,Smartphone,Electronics,42346.22,23,973963.06
+2025-04-23,Notebook,Books & Stationery,37.41,11,411.51
+2025-04-25,Sugar (1kg),Groceries,48.1,1,48.1
+2025-04-26,Sneakers,Clothing,2099.7,7,14697.9
+2025-04-27,Tea (500g),Groceries,290.16,8,2321.28
+2025-04-27,Exam Guide,Books & Stationery,178.26,16,2852.16
+2025-04-27,Keyboard,Electronics,2725.15,17,46327.55
+2025-04-27,Sneakers,Clothing,3090.71,15,46360.65
+2025-04-28,Shirt,Clothing,668.6,23,15377.8
+2025-04-28,T-Shirt,Clothing,1172.52,1,1172.52
+2025-04-28,Headphones,Electronics,2441.53,23,56155.19
+2025-04-29,Shirt,Clothing,1530.56,17,26019.52
+2025-04-29,Headphones,Electronics,2524.2,11,27766.2
+2025-04-29,Smartphone,Electronics,24957.43,14,349404.02
+2025-04-29,Exam Guide,Books & Stationery,170.47,16,2727.52
+2025-04-29,Backpack,Books & Stationery,1647.82,24,39547.68
+2025-05-02,Keyboard,Electronics,2460.6,12,29527.2
+2025-05-03,Water Bottle,Home & Kitchen,341.64,11,3758.04
+2025-05-04,Laptop,Electronics,35403.13,11,389434.43
+2025-05-04,Rice (5kg),Groceries,519.88,15,7798.2
+2025-05-05,Desk Lamp,Home & Kitchen,906.09,8,7248.72
+2025-05-05,Rice (5kg),Groceries,265.07,8,2120.56
+2025-05-05,Rice (5kg),Groceries,514.25,16,8228.0
+2025-05-06,Smartphone,Electronics,33101.4,7,231709.8
+2025-05-06,Desk Lamp,Home & Kitchen,580.31,11,6383.41
+2025-05-07,Backpack,Books & Stationery,700.93,25,17523.25
+2025-05-08,Shirt,Clothing,1354.87,2,2709.74
+2025-05-08,Calculator,Books & Stationery,347.46,17,5906.82
+2025-05-11,Tea (500g),Groceries,281.7,11,3098.7
+2025-05-11,Bedsheet,Home & Kitchen,830.09,15,12451.35
+2025-05-11,Hoodie,Clothing,2164.14,18,38954.52
+2025-05-13,Rice (5kg),Groceries,491.1,18,8839.8
+2025-05-13,Mixer Grinder,Home & Kitchen,4562.59,25,114064.75
+2025-05-14,Coffee (200g),Groceries,348.74,14,4882.36
+2025-05-14,T-Shirt,Clothing,1065.49,5,5327.45
+2025-05-14,Smartwatch,Electronics,9394.81,12,112737.72
+2025-05-16,T-Shirt,Clothing,1073.7,5,5368.5
+2025-05-16,Sneakers,Clothing,5615.81,4,22463.24
+2025-05-16,Laptop,Electronics,45671.06,3,137013.18
+2025-05-17,Hoodie,Clothing,2324.27,25,58106.75
+2025-05-18,Mixer Grinder,Home & Kitchen,4353.51,16,69656.16
+2025-05-19,Cookware Set,Home & Kitchen,3257.68,6,19546.08
+2025-05-19,Smartwatch,Electronics,4194.96,18,75509.28
+2025-05-20,Power Bank,Electronics,2351.55,17,39976.35
+2025-05-21,Smartphone,Electronics,16649.24,13,216440.12
+2025-05-21,Electric Kettle,Home & Kitchen,2060.04,25,51501.0
+2025-05-21,Smartwatch,Electronics,4996.19,10,49961.9
+2025-05-21,Laptop,Electronics,45221.16,7,316548.12
+2025-05-23,Calculator,Books & Stationery,1038.27,23,23880.21
+2025-05-24,Jacket,Clothing,3419.23,24,82061.52
+2025-05-24,Speaker,Electronics,1477.82,4,5911.28
+2025-05-25,Smartwatch,Electronics,4528.21,8,36225.68
+2025-05-26,Laptop,Electronics,42385.6,23,974868.8
+2025-05-26,Smartwatch,Electronics,10279.44,24,246706.56
+2025-05-30,Smartphone,Electronics,41813.81,8,334510.48
+2025-05-31,Electric Kettle,Home & Kitchen,1258.76,7,8811.32
+2025-06-01,Backpack,Books & Stationery,2052.46,12,24629.52
+2025-06-01,Smartphone,Electronics,23396.1,11,257357.1
+2025-06-01,Backpack,Books & Stationery,661.58,20,13231.6
+2025-06-02,Desk Lamp,Home & Kitchen,1063.24,15,15948.6
+2025-06-02,Smartwatch,Electronics,7354.54,21,154445.34
+2025-06-02,Tea (500g),Groceries,182.61,3,547.83
+2025-06-04,Jacket,Clothing,4525.03,17,76925.51
+2025-06-05,Electric Kettle,Home & Kitchen,2126.31,21,44652.51
+2025-06-05,Coffee (200g),Groceries,370.31,2,740.62
+2025-06-07,Hoodie,Clothing,2194.52,21,46084.92
+2025-06-07,Rice (5kg),Groceries,534.12,21,11216.52
+2025-06-07,Cookware Set,Home & Kitchen,1516.08,9,13644.72
+2025-06-08,Bedsheet,Home & Kitchen,788.31,21,16554.51
+2025-06-08,Shirt,Clothing,1498.48,24,35963.52
+2025-06-08,Power Bank,Electronics,1030.43,5,5152.15
+2025-06-09,Cookware Set,Home & Kitchen,3017.24,9,27155.16
+2025-06-09,Sugar (1kg),Groceries,42.12,2,84.24
+2025-06-11,Backpack,Books & Stationery,1075.26,18,19354.68
+2025-06-12,Notebook,Books & Stationery,166.49,15,2497.35
+2025-06-13,Water Bottle,Home & Kitchen,587.99,8,4703.92
+2025-06-13,Wheat Flour (5kg),Groceries,316.19,22,6956.18
+2025-06-13,Desk Lamp,Home & Kitchen,1617.02,25,40425.5
+2025-06-13,Pen Pack,Books & Stationery,63.03,21,1323.63
+2025-06-15,Wheat Flour (5kg),Groceries,206.01,6,1236.06
+2025-06-15,Sugar (1kg),Groceries,44.97,12,539.64
+2025-06-16,Keyboard,Electronics,2291.74,5,11458.7
+2025-06-16,Bedsheet,Home & Kitchen,809.11,8,6472.88
+2025-06-17,Exam Guide,Books & Stationery,561.36,4,2245.44
+2025-06-18,Wheat Flour (5kg),Groceries,275.76,20,5515.2
+2025-06-20,Headphones,Electronics,6072.93,8,48583.44
+2025-06-20,Smartphone,Electronics,38479.33,19,731107.27
+2025-06-22,Smartphone,Electronics,61940.88,2,123881.76
+2025-06-23,Wheat Flour (5kg),Groceries,260.44,24,6250.56
+2025-06-23,Wheat Flour (5kg),Groceries,208.83,13,2714.79
+2025-06-23,Rice (5kg),Groceries,300.47,12,3605.64
+2025-06-25,Cooking Oil (1L),Groceries,106.73,1,106.73
+2025-06-26,Cookware Set,Home & Kitchen,1562.62,21,32815.02
+2025-06-26,Shirt,Clothing,1121.2,22,24666.4
+2025-06-26,Sneakers,Clothing,6104.0,20,122080.0
+2025-06-28,Backpack,Books & Stationery,1099.91,6,6599.46
+2025-06-28,Power Bank,Electronics,1398.85,13,18185.05
+2025-06-29,Electric Kettle,Home & Kitchen,2035.05,24,48841.2
+2025-06-29,Coffee (200g),Groceries,164.08,25,4102.0
+2025-06-29,Laptop,Electronics,59869.27,14,838169.78
+2025-06-29,Tea (500g),Groceries,436.1,24,10466.4
+2025-06-30,Calculator,Books & Stationery,1047.26,6,6283.56
+2025-06-30,Calculator,Books & Stationery,1125.4,14,15755.6
+2025-07-01,Power Bank,Electronics,2132.25,11,23454.75
+2025-07-03,Smartwatch,Electronics,6920.82,2,13841.64
+2025-07-03,Cooking Oil (1L),Groceries,143.68,5,718.4
+2025-07-04,Sneakers,Clothing,1305.74,10,13057.4
+2025-07-04,Wheat Flour (5kg),Groceries,250.05,22,5501.1
+2025-07-04,Wheat Flour (5kg),Groceries,234.67,9,2112.03
+2025-07-05,Calculator,Books & Stationery,572.83,1,572.83
+2025-07-06,Laptop,Electronics,59715.33,11,656868.63
+2025-07-07,Smartwatch,Electronics,4233.44,4,16933.76
+2025-07-08,Cooking Oil (1L),Groceries,157.45,11,1731.95
+2025-07-08,Shirt,Clothing,753.67,13,9797.71
+2025-07-08,Keyboard,Electronics,2660.94,16,42575.04
+2025-07-09,Jacket,Clothing,2097.77,18,37759.86
+2025-07-10,Desk Lamp,Home & Kitchen,967.07,6,5802.42
+2025-07-11,Coffee (200g),Groceries,185.61,18,3340.98
+2025-07-11,Mouse,Electronics,1008.95,5,5044.75
+2025-07-12,Rice (5kg),Groceries,522.71,19,9931.49
+2025-07-13,Hoodie,Clothing,1656.22,11,18218.42
+2025-07-14,Calculator,Books & Stationery,798.8,11,8786.8
+2025-07-14,Exam Guide,Books & Stationery,649.95,7,4549.65
+2025-07-14,Electric Kettle,Home & Kitchen,1993.13,5,9965.65
+2025-07-16,Backpack,Books & Stationery,2223.41,19,42244.79
+2025-07-17,Pen Pack,Books & Stationery,145.88,9,1312.92
+2025-07-17,Jeans,Clothing,1353.09,4,5412.36
+2025-07-18,Sugar (1kg),Groceries,47.07,4,188.28
+2025-07-18,Mixer Grinder,Home & Kitchen,2335.93,17,39710.81
+2025-07-20,Coffee (200g),Groceries,490.15,25,12253.75
+2025-07-20,Bedsheet,Home & Kitchen,1335.16,5,6675.8
+2025-07-21,Calculator,Books & Stationery,1016.19,22,22356.18
+2025-07-22,Speaker,Electronics,1527.11,9,13743.99
+2025-07-23,Exam Guide,Books & Stationery,351.08,5,1755.4
+2025-07-24,Cookware Set,Home & Kitchen,5140.86,16,82253.76
+2025-07-24,Wheat Flour (5kg),Groceries,269.67,6,1618.02
+2025-07-24,Water Bottle,Home & Kitchen,173.27,8,1386.16
+2025-07-25,Jacket,Clothing,5237.4,6,31424.4
+2025-07-25,Keyboard,Electronics,1401.31,20,28026.2
+2025-07-27,Rice (5kg),Groceries,331.59,3,994.77
+2025-07-27,Rice (5kg),Groceries,250.2,14,3502.8
+2025-07-29,Calculator,Books & Stationery,480.46,20,9609.2
+2025-07-30,Pen Pack,Books & Stationery,217.88,10,2178.8
+2025-07-31,Mouse,Electronics,1205.03,7,8435.21
+2025-07-31,Sneakers,Clothing,3008.96,15,45134.4
+2025-08-03,Laptop,Electronics,82650.23,15,1239753.45
+2025-08-04,Keyboard,Electronics,1317.04,20,26340.8
+2025-08-04,Notebook,Books & Stationery,35.06,10,350.6
+2025-08-05,Exam Guide,Books & Stationery,569.51,21,11959.71
+2025-08-07,Rice (5kg),Groceries,382.54,22,8415.88
+2025-08-08,Coffee (200g),Groceries,300.34,1,300.34
+2025-08-09,Sugar (1kg),Groceries,51.05,9,459.45
+2025-08-12,Hoodie,Clothing,1234.36,1,1234.36
+2025-08-13,Backpack,Books & Stationery,1667.07,12,20004.84
+2025-08-14,Mouse,Electronics,378.14,1,378.14
+2025-08-14,Coffee (200g),Groceries,343.87,19,6533.53
+2025-08-14,Bedsheet,Home & Kitchen,1969.27,20,39385.4
+2025-08-15,Tea (500g),Groceries,336.74,19,6398.06
+2025-08-15,Pen Pack,Books & Stationery,105.16,11,1156.76
+2025-08-16,Hoodie,Clothing,2531.55,16,40504.8
+2025-08-16,Smartwatch,Electronics,1921.96,25,48049.0
+2025-08-17,Jeans,Clothing,2605.18,8,20841.44
+2025-08-18,Smartphone,Electronics,64995.11,12,779941.32
+2025-08-18,Hoodie,Clothing,2788.5,12,33462.0
+2025-08-19,Water Bottle,Home & Kitchen,553.45,8,4427.6
+2025-08-20,Sugar (1kg),Groceries,54.9,20,1098.0
+2025-08-20,Exam Guide,Books & Stationery,191.41,25,4785.25
+2025-08-21,Speaker,Electronics,4750.08,10,47500.8
+2025-08-22,Cookware Set,Home & Kitchen,1499.09,22,32979.98
+2025-08-22,Desk Lamp,Home & Kitchen,1789.62,16,28633.92
+2025-08-24,Keyboard,Electronics,1640.62,23,37734.26
+2025-08-26,Tea (500g),Groceries,295.12,15,4426.8
+2025-08-27,Water Bottle,Home & Kitchen,367.04,3,1101.12
+2025-08-28,Cookware Set,Home & Kitchen,4896.31,3,14688.93
+2025-08-28,Hoodie,Clothing,2013.77,24,48330.48
+2025-08-28,Keyboard,Electronics,2011.69,10,20116.9
+2025-08-28,Cookware Set,Home & Kitchen,2226.86,13,28949.18
+2025-08-29,Jacket,Clothing,1966.94,25,49173.5
+2025-08-30,T-Shirt,Clothing,871.0,23,20033.0
+2025-08-30,Smartphone,Electronics,33012.06,12,396144.72
+2025-08-31,Pen Pack,Books & Stationery,248.73,25,6218.25
+2025-09-01,Smartphone,Electronics,33775.51,22,743061.22
+2025-09-02,Speaker,Electronics,2737.02,2,5474.04
+2025-09-02,Jeans,Clothing,2337.09,24,56090.16
+2025-09-02,Notebook,Books & Stationery,37.96,5,189.8
+2025-09-03,Calculator,Books & Stationery,594.83,10,5948.3
+2025-09-03,T-Shirt,Clothing,877.41,6,5264.46
+2025-09-03,Laptop,Electronics,83657.34,20,1673146.8
+2025-09-04,Water Bottle,Home & Kitchen,852.18,1,852.18
+2025-09-04,Calculator,Books & Stationery,341.5,5,1707.5
+2025-09-06,Coffee (200g),Groceries,391.72,21,8226.12
+2025-09-06,Tea (500g),Groceries,323.1,13,4200.3
+2025-09-06,Water Bottle,Home & Kitchen,780.88,5,3904.4
+2025-09-07,Electric Kettle,Home & Kitchen,2140.09,24,51362.16
+2025-09-07,Laptop,Electronics,37528.93,11,412818.23
+2025-09-07,Exam Guide,Books & Stationery,373.32,19,7093.08
+2025-09-08,Sugar (1kg),Groceries,55.87,18,1005.66
+2025-09-08,Keyboard,Electronics,3299.78,3,9899.34
+2025-09-08,Sneakers,Clothing,3374.08,5,16870.4
+2025-09-09,Bedsheet,Home & Kitchen,2300.89,25,57522.25
+2025-09-09,Jacket,Clothing,2650.09,19,50351.71
+2025-09-10,Smartwatch,Electronics,11404.28,19,216681.32
+2025-09-10,Headphones,Electronics,5178.57,10,51785.7
+2025-09-11,Bedsheet,Home & Kitchen,2160.14,25,54003.5
+2025-09-11,Speaker,Electronics,1792.09,11,19712.99
+2025-09-11,Desk Lamp,Home & Kitchen,1329.73,7,9308.11
+2025-09-12,Desk Lamp,Home & Kitchen,1337.87,24,32108.88
+2025-09-13,Shirt,Clothing,839.08,17,14264.36
+2025-09-14,Jeans,Clothing,2205.67,14,30879.38
+2025-09-14,Speaker,Electronics,4783.37,20,95667.4
+2025-09-16,Water Bottle,Home & Kitchen,863.4,14,12087.6
+2025-09-16,Keyboard,Electronics,2400.01,8,19200.08
+2025-09-17,Mixer Grinder,Home & Kitchen,3618.34,12,43420.08
+2025-09-18,Keyboard,Electronics,1196.57,21,25127.97
+2025-09-18,Hoodie,Clothing,2588.96,7,18122.72
+2025-09-20,Laptop,Electronics,80292.87,1,80292.87
+2025-09-20,Exam Guide,Books & Stationery,269.88,23,6207.24
+2025-09-20,Sneakers,Clothing,6559.26,21,137744.46
+2025-09-21,Wheat Flour (5kg),Groceries,335.29,6,2011.74
+2025-09-23,Wheat Flour (5kg),Groceries,313.11,24,7514.64
+2025-09-23,Bedsheet,Home & Kitchen,2222.99,15,33344.85
+2025-09-24,Wheat Flour (5kg),Groceries,188.32,10,1883.2
+2025-09-24,Calculator,Books & Stationery,783.59,9,7052.31
+2025-09-25,Jacket,Clothing,6196.19,4,24784.76
+2025-09-26,Tea (500g),Groceries,213.37,12,2560.44
+2025-09-26,Laptop,Electronics,51677.83,5,258389.15
+2025-09-26,Laptop,Electronics,64368.17,1,64368.17
+2025-09-27,Shirt,Clothing,768.87,1,768.87
+2025-09-28,Electric Kettle,Home & Kitchen,2089.58,24,50149.92
+2025-09-28,Headphones,Electronics,5285.96,1,5285.96
+2025-09-28,Calculator,Books & Stationery,880.22,5,4401.1
+2025-09-28,Cookware Set,Home & Kitchen,2674.39,22,58836.58
+2025-09-29,Headphones,Electronics,3818.28,17,64910.76
+2025-09-30,Smartwatch,Electronics,4328.14,8,34625.12
+2025-10-01,Jacket,Clothing,6171.24,17,104911.08
+2025-10-01,Sneakers,Clothing,6561.0,17,111537.0
+2025-10-01,Cookware Set,Home & Kitchen,2458.33,19,46708.27
+2025-10-01,Electric Kettle,Home & Kitchen,2292.62,25,57315.5
+2025-10-01,Sugar (1kg),Groceries,63.23,23,1454.29
+2025-10-02,Wheat Flour (5kg),Groceries,199.25,4,797.0
+2025-10-03,Mouse,Electronics,826.4,24,19833.6
+2025-10-03,Coffee (200g),Groceries,482.78,25,12069.5
+2025-10-05,Jacket,Clothing,3259.05,15,48885.75
+2025-10-06,T-Shirt,Clothing,1136.37,23,26136.51
+2025-10-07,Water Bottle,Home & Kitchen,394.78,21,8290.38
+2025-10-07,Jeans,Clothing,984.53,6,5907.18
+2025-10-08,Jacket,Clothing,3899.02,18,70182.36
+2025-10-08,Laptop,Electronics,70400.92,5,352004.6
+2025-10-09,T-Shirt,Clothing,436.49,18,7856.82
+2025-10-09,Mouse,Electronics,798.61,6,4791.66
+2025-10-09,Mixer Grinder,Home & Kitchen,2323.26,24,55758.24
+2025-10-10,Keyboard,Electronics,689.8,14,9657.2
+2025-10-10,T-Shirt,Clothing,1086.3,23,24984.9
+2025-10-11,Water Bottle,Home & Kitchen,335.43,21,7044.03
+2025-10-11,Jacket,Clothing,5455.38,8,43643.04
+2025-10-11,Power Bank,Electronics,1011.13,16,16178.08
+2025-10-12,Jacket,Clothing,3187.5,13,41437.5
+2025-10-12,Cooking Oil (1L),Groceries,162.28,15,2434.2
+2025-10-12,Shirt,Clothing,874.75,19,16620.25
+2025-10-13,Sugar (1kg),Groceries,52.1,8,416.8
+2025-10-13,T-Shirt,Clothing,1071.14,25,26778.5
+2025-10-14,Cooking Oil (1L),Groceries,215.34,5,1076.7
+2025-10-15,Cooking Oil (1L),Groceries,132.53,3,397.59
+2025-10-17,Jeans,Clothing,871.81,10,8718.1
+2025-10-19,Smartwatch,Electronics,10701.74,19,203333.06
+2025-10-20,Cookware Set,Home & Kitchen,3118.97,20,62379.4
+2025-10-20,Hoodie,Clothing,1256.93,15,18853.95
+2025-10-20,Speaker,Electronics,2575.04,3,7725.12
+2025-10-21,Desk Lamp,Home & Kitchen,604.47,2,1208.94
+2025-10-21,Calculator,Books & Stationery,826.09,16,13217.44
+2025-10-22,Cooking Oil (1L),Groceries,178.06,25,4451.5
+2025-10-22,Power Bank,Electronics,1107.41,5,5537.05
+2025-10-22,Pen Pack,Books & Stationery,232.33,2,464.66
+2025-10-23,Tea (500g),Groceries,260.59,10,2605.9
+2025-10-23,Wheat Flour (5kg),Groceries,251.95,25,6298.75
+2025-10-25,Cookware Set,Home & Kitchen,1479.24,18,26626.32
+2025-10-25,Exam Guide,Books & Stationery,575.19,5,2875.95
+2025-10-27,Smartphone,Electronics,63637.63,18,1145477.34
+2025-10-28,Water Bottle,Home & Kitchen,630.72,4,2522.88
+2025-10-28,Smartphone,Electronics,29191.86,2,58383.72
+2025-10-29,Rice (5kg),Groceries,487.88,3,1463.64
+2025-10-30,Sneakers,Clothing,5447.69,3,16343.07
+2025-10-30,Calculator,Books & Stationery,1033.46,16,16535.36
+2025-10-30,Coffee (200g),Groceries,275.64,10,2756.4
+2025-10-30,Sugar (1kg),Groceries,55.48,8,443.84
+2025-11-02,Cooking Oil (1L),Groceries,100.71,12,1208.52
+2025-11-02,Notebook,Books & Stationery,35.37,24,848.88
+2025-11-03,Laptop,Electronics,68393.16,18,1231076.88
+2025-11-04,Speaker,Electronics,2520.25,5,12601.25
+2025-11-04,Sugar (1kg),Groceries,47.85,4,191.4
+2025-11-06,Cookware Set,Home & Kitchen,5110.45,21,107319.45
+2025-11-06,Jeans,Clothing,1300.46,6,7802.76
+2025-11-06,Backpack,Books & Stationery,1754.33,10,17543.3
+2025-11-06,Mixer Grinder,Home & Kitchen,5672.12,23,130458.76
+2025-11-07,Power Bank,Electronics,2252.0,11,24772.0
+2025-11-08,Sneakers,Clothing,2363.89,19,44913.91
+2025-11-09,Jeans,Clothing,2692.37,14,37693.18
+2025-11-10,Speaker,Electronics,3366.85,8,26934.8
+2025-11-11,Smartphone,Electronics,47392.66,15,710889.9
+2025-11-12,Exam Guide,Books & Stationery,573.69,15,8605.35
+2025-11-13,Sugar (1kg),Groceries,62.11,3,186.33
+2025-11-13,Rice (5kg),Groceries,433.69,2,867.38
+2025-11-13,Laptop,Electronics,44020.8,23,1012478.4
+2025-11-14,Electric Kettle,Home & Kitchen,954.57,12,11454.84
+2025-11-14,Smartphone,Electronics,30652.94,3,91958.82
+2025-11-14,Keyboard,Electronics,2285.12,3,6855.36
+2025-11-15,Mouse,Electronics,878.4,17,14932.8
+2025-11-15,Headphones,Electronics,5786.55,10,57865.5
+2025-11-16,Water Bottle,Home & Kitchen,697.45,7,4882.15
+2025-11-17,Coffee (200g),Groceries,179.66,5,898.3
+2025-11-17,Power Bank,Electronics,1246.37,5,6231.85
+2025-11-17,Hoodie,Clothing,1573.58,4,6294.32
+2025-11-17,Shirt,Clothing,531.86,3,1595.58
+2025-11-18,Bedsheet,Home & Kitchen,1584.39,24,38025.36
+2025-11-18,Keyboard,Electronics,2088.38,13,27148.94
+2025-11-18,Jacket,Clothing,6173.53,7,43214.71
+2025-11-18,Smartwatch,Electronics,7885.03,12,94620.36
+2025-11-19,T-Shirt,Clothing,312.88,19,5944.72
+2025-11-20,Jacket,Clothing,5821.23,21,122245.83
+2025-11-22,Pen Pack,Books & Stationery,202.86,2,405.72
+2025-11-22,Cookware Set,Home & Kitchen,4777.17,11,52548.87
+2025-11-23,Cooking Oil (1L),Groceries,137.7,13,1790.1
+2025-11-23,Notebook,Books & Stationery,167.88,19,3189.72
+2025-11-23,Rice (5kg),Groceries,466.6,15,6999.0
+2025-11-24,Desk Lamp,Home & Kitchen,1773.85,16,28381.6
+2025-11-24,Speaker,Electronics,2862.99,14,40081.86
+2025-11-25,Coffee (200g),Groceries,359.27,22,7903.94
+2025-11-26,Shirt,Clothing,1835.79,20,36715.8
+2025-11-26,Hoodie,Clothing,2621.77,18,47191.86
+2025-11-28,T-Shirt,Clothing,817.01,6,4902.06
+2025-11-28,Mouse,Electronics,1771.61,16,28345.76
+2025-11-29,Jeans,Clothing,1053.38,1,1053.38
+2025-11-30,Exam Guide,Books & Stationery,466.73,8,3733.84
+2025-12-01,Wheat Flour (5kg),Groceries,232.58,14,3256.12
+2025-12-02,Sugar (1kg),Groceries,62.11,18,1117.98
+2025-12-02,Jeans,Clothing,1506.67,3,4520.01
+2025-12-02,Shirt,Clothing,922.06,6,5532.36
+2025-12-02,Sugar (1kg),Groceries,62.33,5,311.65
+2025-12-03,Laptop,Electronics,68001.66,13,884021.58
+2025-12-03,Power Bank,Electronics,2144.8,8,17158.4
+2025-12-04,Speaker,Electronics,3625.09,9,32625.81
+2025-12-04,Jacket,Clothing,4850.67,6,29104.02
+2025-12-04,Jacket,Clothing,5708.07,13,74204.91
+2025-12-05,Wheat Flour (5kg),Groceries,209.66,6,1257.96
+2025-12-05,Speaker,Electronics,1311.14,2,2622.28
+2025-12-05,Sneakers,Clothing,3701.52,22,81433.44
+2025-12-06,Headphones,Electronics,3599.18,14,50388.52
+2025-12-06,Mixer Grinder,Home & Kitchen,4984.12,13,64793.56
+2025-12-06,Pen Pack,Books & Stationery,203.98,21,4283.58
+2025-12-07,Water Bottle,Home & Kitchen,586.43,25,14660.75
+2025-12-08,Smartphone,Electronics,14062.44,23,323436.12
+2025-12-08,Headphones,Electronics,3426.06,14,47964.84
+2025-12-10,Laptop,Electronics,50934.24,4,203736.96
+2025-12-11,Coffee (200g),Groceries,363.62,13,4727.06
+2025-12-12,T-Shirt,Clothing,556.72,10,5567.2
+2025-12-12,Cooking Oil (1L),Groceries,166.08,22,3653.76
+2025-12-13,Keyboard,Electronics,633.01,18,11394.18
+2025-12-13,Headphones,Electronics,3423.05,9,30807.45
+2025-12-15,Cooking Oil (1L),Groceries,125.45,9,1129.05
+2025-12-15,Smartwatch,Electronics,6258.3,3,18774.9
+2025-12-18,Exam Guide,Books & Stationery,184.03,4,736.12
+2025-12-19,Coffee (200g),Groceries,175.56,14,2457.84
+2025-12-19,Rice (5kg),Groceries,389.75,17,6625.75
+2025-12-19,Headphones,Electronics,2903.58,12,34842.96
+2025-12-20,Hoodie,Clothing,2581.1,13,33554.3
+2025-12-20,Bedsheet,Home & Kitchen,532.48,3,1597.44
+2025-12-20,Pen Pack,Books & Stationery,190.86,24,4580.64
+2025-12-21,Jacket,Clothing,6173.69,8,49389.52
+2025-12-22,Desk Lamp,Home & Kitchen,1354.7,11,14901.7
+2025-12-23,Sugar (1kg),Groceries,49.81,4,199.24
+2025-12-25,Power Bank,Electronics,2151.51,15,32272.65
+2025-12-26,Power Bank,Electronics,2140.34,19,40666.46
+2025-12-27,Calculator,Books & Stationery,811.98,23,18675.54
+2025-12-27,Water Bottle,Home & Kitchen,749.15,20,14983.0
+2025-12-28,Exam Guide,Books & Stationery,282.4,19,5365.6
+2025-12-28,Sneakers,Clothing,3793.35,24,91040.4
+2025-12-29,Power Bank,Electronics,1777.58,9,15998.22
+2025-12-29,Wheat Flour (5kg),Groceries,274.98,22,6049.56
+2025-12-29,Calculator,Books & Stationery,756.47,18,13616.46
+2025-12-29,Jacket,Clothing,4850.07,14,67900.98
+2025-12-30,Water Bottle,Home & Kitchen,336.17,22,7395.74
+2025-12-30,Pen Pack,Books & Stationery,246.36,13,3202.68
+2026-01-01,Water Bottle,Home & Kitchen,635.18,10,6351.8
+2026-01-02,Desk Lamp,Home & Kitchen,1788.14,17,30398.38
+2026-01-02,Jacket,Clothing,3532.56,18,63586.08
+2026-01-02,Bedsheet,Home & Kitchen,2444.3,21,51330.3
+2026-01-02,Jeans,Clothing,1602.23,2,3204.46
+2026-01-03,Speaker,Electronics,4514.37,24,108344.88
+2026-01-03,Electric Kettle,Home & Kitchen,1361.2,21,28585.2
+2026-01-04,Headphones,Electronics,3577.66,17,60820.22
+2026-01-04,Mixer Grinder,Home & Kitchen,3488.52,9,31396.68
+2026-01-05,Headphones,Electronics,3764.06,1,3764.06
+2026-01-05,Shirt,Clothing,1009.58,3,3028.74
+2026-01-06,Bedsheet,Home & Kitchen,627.12,15,9406.8
+2026-01-07,Smartphone,Electronics,42224.93,7,295574.51
+2026-01-08,Wheat Flour (5kg),Groceries,268.87,6,1613.22
+2026-01-08,Headphones,Electronics,4592.87,13,59707.31
+2026-01-09,Hoodie,Clothing,1288.63,13,16752.19
+2026-01-10,Exam Guide,Books & Stationery,615.16,18,11072.88
+2026-01-10,Keyboard,Electronics,3147.37,24,75536.88
+2026-01-11,Smartphone,Electronics,18690.19,8,149521.52
+2026-01-12,Cookware Set,Home & Kitchen,1704.89,10,17048.9
+2026-01-13,Laptop,Electronics,53044.83,19,1007851.77
+2026-01-13,Bedsheet,Home & Kitchen,1745.44,15,26181.6
+2026-01-13,Hoodie,Clothing,1782.79,9,16045.11
+2026-01-13,Rice (5kg),Groceries,385.57,2,771.14
+2026-01-14,Shirt,Clothing,1271.2,6,7627.2
+2026-01-15,Sneakers,Clothing,4289.92,22,94378.24
+2026-01-15,Sugar (1kg),Groceries,43.84,15,657.6
+2026-01-15,Mixer Grinder,Home & Kitchen,5720.32,6,34321.92
+2026-01-16,Mixer Grinder,Home & Kitchen,3494.05,3,10482.15
+2026-01-16,Coffee (200g),Groceries,283.36,21,5950.56
+2026-01-17,T-Shirt,Clothing,1034.7,19,19659.3
+2026-01-17,Keyboard,Electronics,1094.4,13,14227.2
+2026-01-18,T-Shirt,Clothing,1005.19,3,3015.57
+2026-01-18,Hoodie,Clothing,2789.81,21,58586.01
+2026-01-18,Keyboard,Electronics,1864.94,20,37298.8
+2026-01-19,Shirt,Clothing,1031.29,9,9281.61
+2026-01-20,Pen Pack,Books & Stationery,232.59,13,3023.67
+2026-01-20,Calculator,Books & Stationery,546.36,22,12019.92
+2026-01-21,Exam Guide,Books & Stationery,334.26,25,8356.5
+2026-01-21,Headphones,Electronics,5027.45,7,35192.15
+2026-01-22,Electric Kettle,Home & Kitchen,977.46,14,13684.44
+2026-01-25,Pen Pack,Books & Stationery,224.94,19,4273.86
+2026-01-25,Mouse,Electronics,1303.53,22,28677.66
+2026-01-26,Smartphone,Electronics,63531.38,21,1334158.98
+2026-01-26,Pen Pack,Books & Stationery,141.47,8,1131.76
+2026-01-27,Rice (5kg),Groceries,388.5,10,3885.0
+2026-01-27,Mouse,Electronics,521.36,20,10427.2
+2026-01-28,Shirt,Clothing,1513.92,19,28764.48
+2026-01-28,Speaker,Electronics,3686.4,5,18432.0
+2026-01-28,Headphones,Electronics,1502.57,8,12020.56
+2026-01-28,Calculator,Books & Stationery,485.64,9,4370.76
+2026-01-29,Backpack,Books & Stationery,1759.53,7,12316.71
+2026-01-29,Rice (5kg),Groceries,503.59,7,3525.13
+2026-01-31,Backpack,Books & Stationery,1300.04,15,19500.6
+2026-01-31,Jacket,Clothing,1972.53,22,43395.66
+2026-01-31,Bedsheet,Home & Kitchen,1445.95,13,18797.35
+2026-02-01,Bedsheet,Home & Kitchen,872.1,17,14825.7
+2026-02-02,Sneakers,Clothing,5221.93,17,88772.81
+2026-02-02,Exam Guide,Books & Stationery,501.51,20,10030.2
+2026-02-03,Shirt,Clothing,605.85,14,8481.9
+2026-02-06,Exam Guide,Books & Stationery,510.83,22,11238.26
+2026-02-06,Wheat Flour (5kg),Groceries,283.18,7,1982.26
+2026-02-07,Calculator,Books & Stationery,832.41,6,4994.46
+2026-02-07,Speaker,Electronics,2679.22,11,29471.42
+2026-02-09,Calculator,Books & Stationery,795.19,24,19084.56
+2026-02-10,Headphones,Electronics,4824.71,12,57896.52
+2026-02-10,Coffee (200g),Groceries,290.16,3,870.48
+2026-02-10,Smartwatch,Electronics,3181.99,1,3181.99
+2026-02-10,Laptop,Electronics,83897.22,22,1845738.84
+2026-02-11,Pen Pack,Books & Stationery,182.03,22,4004.66
+2026-02-11,Sugar (1kg),Groceries,59.23,20,1184.6
+2026-02-12,Power Bank,Electronics,675.67,2,1351.34
+2026-02-12,Jacket,Clothing,6166.85,17,104836.45
+2026-02-12,Pen Pack,Books & Stationery,53.3,18,959.4
+2026-02-12,Exam Guide,Books & Stationery,263.94,5,1319.7
+2026-02-15,Pen Pack,Books & Stationery,70.08,22,1541.76
+2026-02-15,Speaker,Electronics,5913.0,11,65043.0
+2026-02-15,Shirt,Clothing,1325.59,7,9279.13
+2026-02-15,Water Bottle,Home & Kitchen,452.44,2,904.88
+2026-02-15,Speaker,Electronics,5806.46,2,11612.92
+2026-02-15,Shirt,Clothing,1679.25,10,16792.5
+2026-02-16,Water Bottle,Home & Kitchen,461.57,23,10616.11
+2026-02-17,Smartwatch,Electronics,6580.72,10,65807.2
+2026-02-18,Sugar (1kg),Groceries,41.7,8,333.6
+2026-02-19,Laptop,Electronics,54442.86,22,1197742.92
+2026-02-19,Notebook,Books & Stationery,178.65,1,178.65
+2026-02-20,Cooking Oil (1L),Groceries,129.39,22,2846.58
+2026-02-21,Coffee (200g),Groceries,315.43,16,5046.88
+2026-02-23,Calculator,Books & Stationery,698.47,10,6984.7
+2026-02-23,Sneakers,Clothing,6524.03,13,84812.39
+2026-02-25,Keyboard,Electronics,1738.88,7,12172.16
+2026-02-26,Mouse,Electronics,1391.67,11,15308.37
+2026-02-28,Electric Kettle,Home & Kitchen,2264.86,15,33972.9
+2026-02-28,Calculator,Books & Stationery,442.97,11,4872.67
+2026-03-01,Pen Pack,Books & Stationery,54.66,25,1366.5
+2026-03-01,Pen Pack,Books & Stationery,201.38,15,3020.7
+2026-03-01,Backpack,Books & Stationery,1199.17,1,1199.17
+2026-03-03,Speaker,Electronics,1622.55,25,40563.75
+2026-03-03,Calculator,Books & Stationery,304.74,14,4266.36
+2026-03-03,Desk Lamp,Home & Kitchen,1134.25,23,26087.75
+2026-03-04,Coffee (200g),Groceries,300.25,13,3903.25
+2026-03-05,Power Bank,Electronics,635.98,11,6995.78
+2026-03-05,Coffee (200g),Groceries,290.28,17,4934.76
+2026-03-06,Desk Lamp,Home & Kitchen,1679.53,24,40308.72
+2026-03-06,Power Bank,Electronics,1606.65,8,12853.2
+2026-03-07,Mouse,Electronics,1441.91,25,36047.75
+2026-03-10,Pen Pack,Books & Stationery,179.72,25,4493.0
+2026-03-12,Electric Kettle,Home & Kitchen,2147.03,7,15029.21
+2026-03-13,Sugar (1kg),Groceries,60.38,17,1026.46
+2026-03-13,Cooking Oil (1L),Groceries,103.54,22,2277.88
+2026-03-14,Mouse,Electronics,1398.91,18,25180.38
+2026-03-14,Pen Pack,Books & Stationery,174.13,13,2263.69
+2026-03-15,Tea (500g),Groceries,250.94,19,4767.86
+2026-03-15,Coffee (200g),Groceries,382.05,3,1146.15
+2026-03-15,Pen Pack,Books & Stationery,189.26,21,3974.46
+2026-03-16,Speaker,Electronics,5283.12,10,52831.2
+2026-03-16,Coffee (200g),Groceries,405.5,12,4866.0
+2026-03-17,Wheat Flour (5kg),Groceries,318.24,22,7001.28
+2026-03-17,Water Bottle,Home & Kitchen,534.26,12,6411.12
+2026-03-18,Jeans,Clothing,1980.72,4,7922.88
+2026-03-18,Power Bank,Electronics,779.22,22,17142.84
+2026-03-19,Rice (5kg),Groceries,274.13,2,548.26
+2026-03-19,Sneakers,Clothing,4407.62,13,57299.06
+2026-03-19,Headphones,Electronics,5524.28,3,16572.84
+2026-03-23,Shirt,Clothing,1935.62,8,15484.96
+2026-03-24,Rice (5kg),Groceries,521.59,5,2607.95
+2026-03-24,T-Shirt,Clothing,368.25,12,4419.0
+2026-03-25,Desk Lamp,Home & Kitchen,1663.72,24,39929.28
+2026-03-25,Exam Guide,Books & Stationery,167.13,20,3342.6
+2026-03-26,Smartphone,Electronics,25130.42,15,376956.3
+2026-03-26,Speaker,Electronics,5417.3,13,70424.9
+2026-03-26,T-Shirt,Clothing,581.15,3,1743.45
+2026-03-26,Bedsheet,Home & Kitchen,2148.48,10,21484.8
+2026-03-27,Exam Guide,Books & Stationery,474.6,4,1898.4
+2026-03-28,Notebook,Books & Stationery,144.73,25,3618.25
+2026-03-28,Smartwatch,Electronics,11280.22,6,67681.32
+2026-03-29,Keyboard,Electronics,1819.29,16,29108.64
+2026-03-29,Keyboard,Electronics,993.61,17,16891.37
+2026-03-30,Speaker,Electronics,6234.36,3,18703.08
+2026-03-30,Tea (500g),Groceries,340.77,25,8519.25
+2026-03-30,Water Bottle,Home & Kitchen,541.93,15,8128.95
+2026-03-31,Cookware Set,Home & Kitchen,3032.3,23,69742.9
+2026-03-31,Headphones,Electronics,1846.95,21,38785.95
+2026-04-01,Headphones,Electronics,730.13,10,7301.3
+2026-04-01,Cookware Set,Home & Kitchen,2793.28,15,41899.2
+2026-04-01,Coffee (200g),Groceries,229.17,22,5041.74
+2026-04-02,Cooking Oil (1L),Groceries,110.91,17,1885.47
+2026-04-05,Sneakers,Clothing,6958.57,13,90461.41
+2026-04-05,Speaker,Electronics,2068.7,18,37236.6
+2026-04-05,Rice (5kg),Groceries,433.18,25,10829.5
+2026-04-06,Bedsheet,Home & Kitchen,1728.21,7,12097.47
+2026-04-06,Jeans,Clothing,2724.58,2,5449.16
+2026-04-07,Headphones,Electronics,6189.2,8,49513.6
+2026-04-08,Bedsheet,Home & Kitchen,2230.98,14,31233.72
+2026-04-08,Smartwatch,Electronics,3184.43,3,9553.29
+2026-04-10,Backpack,Books & Stationery,956.99,11,10526.89
+2026-04-10,Pen Pack,Books & Stationery,61.21,9,550.89
+2026-04-11,T-Shirt,Clothing,610.15,7,4271.05
+2026-04-11,Calculator,Books & Stationery,1183.84,10,11838.4
+2026-04-11,Notebook,Books & Stationery,145.27,2,290.54
+2026-04-14,Headphones,Electronics,6182.35,17,105099.95
+2026-04-14,Shirt,Clothing,1586.22,20,31724.4
+2026-04-14,Cooking Oil (1L),Groceries,171.26,7,1198.82
+2026-04-15,Power Bank,Electronics,1845.33,13,23989.29
+2026-04-15,Shirt,Clothing,1691.44,12,20297.28
+2026-04-15,Desk Lamp,Home & Kitchen,557.71,6,3346.26
+2026-04-16,Shirt,Clothing,2133.34,21,44800.14
+2026-04-16,Sugar (1kg),Groceries,46.61,2,93.22
+2026-04-16,Hoodie,Clothing,1358.88,6,8153.28
+2026-04-17,Hoodie,Clothing,2429.06,8,19432.48
+2026-04-17,Mouse,Electronics,1492.05,20,29841.0
+2026-04-19,Keyboard,Electronics,1765.64,9,15890.76
+2026-04-19,Sugar (1kg),Groceries,54.85,13,713.05
+2026-04-20,Water Bottle,Home & Kitchen,167.05,10,1670.5
+2026-04-20,Jeans,Clothing,2686.59,5,13432.95
+2026-04-21,Mouse,Electronics,931.39,16,14902.24
+2026-04-21,T-Shirt,Clothing,1087.55,8,8700.4
+2026-04-21,Notebook,Books & Stationery,128.21,25,3205.25
+2026-04-22,Rice (5kg),Groceries,326.6,1,326.6
+2026-04-23,Tea (500g),Groceries,208.67,8,1669.36
+2026-04-23,Keyboard,Electronics,816.97,15,12254.55
+2026-04-23,Shirt,Clothing,1192.92,18,21472.56
+2026-04-24,Water Bottle,Home & Kitchen,269.51,17,4581.67
+2026-04-25,Bedsheet,Home & Kitchen,2240.79,4,8963.16
+2026-04-26,Speaker,Electronics,4157.47,10,41574.7
+2026-04-27,Shirt,Clothing,1265.86,20,25317.2
+2026-04-27,Backpack,Books & Stationery,2185.7,22,48085.4
+2026-04-29,Cookware Set,Home & Kitchen,2375.73,16,38011.68
+2026-05-02,Cooking Oil (1L),Groceries,185.05,10,1850.5
+2026-05-02,Water Bottle,Home & Kitchen,244.32,22,5375.04
+2026-05-03,Calculator,Books & Stationery,400.04,21,8400.84
+2026-05-05,Sugar (1kg),Groceries,45.52,5,227.6
+2026-05-05,Pen Pack,Books & Stationery,128.69,5,643.45
+2026-05-06,Bedsheet,Home & Kitchen,1842.9,7,12900.3
+2026-05-06,Exam Guide,Books & Stationery,557.81,24,13387.44
+2026-05-06,Headphones,Electronics,3304.59,20,66091.8
+2026-05-06,Hoodie,Clothing,2799.15,24,67179.6
+2026-05-06,Cooking Oil (1L),Groceries,149.44,18,2689.92
+2026-05-07,Hoodie,Clothing,2342.02,12,28104.24
+2026-05-09,Wheat Flour (5kg),Groceries,216.17,22,4755.74
+2026-05-10,Sugar (1kg),Groceries,55.94,20,1118.8
+2026-05-11,Pen Pack,Books & Stationery,71.21,18,1281.78
+2026-05-12,Pen Pack,Books & Stationery,115.4,1,115.4
+2026-05-12,Tea (500g),Groceries,336.04,19,6384.76
+2026-05-13,T-Shirt,Clothing,670.96,14,9393.44
+2026-05-13,Exam Guide,Books & Stationery,267.81,25,6695.25
+2026-05-13,Cooking Oil (1L),Groceries,126.33,14,1768.62
+2026-05-13,Headphones,Electronics,3682.11,9,33138.99
+2026-05-15,Hoodie,Clothing,2703.69,21,56777.49
+2026-05-16,Shirt,Clothing,1707.24,15,25608.6
+2026-05-16,Cookware Set,Home & Kitchen,2091.29,23,48099.67
+2026-05-17,Water Bottle,Home & Kitchen,782.67,13,10174.71
+2026-05-17,Backpack,Books & Stationery,1329.77,4,5319.08
+2026-05-17,Notebook,Books & Stationery,120.11,22,2642.42
+2026-05-18,Cookware Set,Home & Kitchen,5259.59,21,110451.39
+2026-05-18,Jeans,Clothing,2416.72,21,50751.12
+2026-05-18,Water Bottle,Home & Kitchen,330.24,16,5283.84
+2026-05-18,T-Shirt,Clothing,975.19,16,15603.04
+2026-05-19,Wheat Flour (5kg),Groceries,291.02,14,4074.28
+2026-05-19,Mouse,Electronics,1795.27,14,25133.78
+2026-05-20,Keyboard,Electronics,1306.76,9,11760.84
+2026-05-21,Power Bank,Electronics,2104.92,8,16839.36
+2026-05-21,Exam Guide,Books & Stationery,299.74,18,5395.32
+2026-05-21,Mouse,Electronics,1724.5,21,36214.5
+2026-05-22,Jeans,Clothing,2221.57,8,17772.56
+2026-05-22,Power Bank,Electronics,2439.44,7,17076.08
+2026-05-23,Calculator,Books & Stationery,1123.65,13,14607.45
+2026-05-23,Mixer Grinder,Home & Kitchen,4990.13,18,89822.34
+2026-05-25,Jacket,Clothing,6368.62,16,101897.92
+2026-05-25,Shirt,Clothing,1550.78,1,1550.78
+2026-05-27,Notebook,Books & Stationery,157.93,14,2211.02
+2026-05-29,Wheat Flour (5kg),Groceries,228.7,23,5260.1
+2026-05-30,Cooking Oil (1L),Groceries,215.78,5,1078.9
+2026-05-30,Smartphone,Electronics,14657.54,16,234520.64
+2026-05-31,Wheat Flour (5kg),Groceries,280.92,15,4213.8
+2026-06-01,Tea (500g),Groceries,257.92,13,3352.96
+2026-06-02,Bedsheet,Home & Kitchen,669.8,4,2679.2
+2026-06-04,Headphones,Electronics,2415.59,4,9662.36
+2026-06-04,Pen Pack,Books & Stationery,171.31,21,3597.51
+2026-06-05,Headphones,Electronics,4446.94,14,62257.16
+2026-06-06,Cooking Oil (1L),Groceries,211.92,10,2119.2
+2026-06-07,Jacket,Clothing,5395.59,3,16186.77
+2026-06-10,Desk Lamp,Home & Kitchen,477.89,5,2389.45
+2026-06-12,Hoodie,Clothing,974.61,12,11695.32
+2026-06-15,Water Bottle,Home & Kitchen,468.86,6,2813.16
+2026-06-16,Smartwatch,Electronics,4439.13,17,75465.21
+2026-06-17,Smartphone,Electronics,49565.62,1,49565.62
+2026-06-17,Headphones,Electronics,954.62,8,7636.96
+2026-06-18,Speaker,Electronics,2740.76,5,13703.8
+2026-06-18,Speaker,Electronics,6667.04,2,13334.08
+2026-06-19,Cookware Set,Home & Kitchen,1857.86,6,11147.16
+2026-06-20,Shirt,Clothing,1617.53,19,30733.07
+2026-06-20,Mouse,Electronics,1019.44,12,12233.28
+2026-06-21,Jacket,Clothing,5535.54,9,49819.86
+2026-06-22,Bedsheet,Home & Kitchen,1679.17,25,41979.25
+2026-06-23,Electric Kettle,Home & Kitchen,2058.53,3,6175.59
+2026-06-23,Jacket,Clothing,6490.61,16,103849.76
+2026-06-23,Wheat Flour (5kg),Groceries,345.69,3,1037.07
+2026-06-24,Electric Kettle,Home & Kitchen,1965.1,24,47162.4
+2026-06-24,Water Bottle,Home & Kitchen,554.83,24,13315.92
+2026-06-25,Coffee (200g),Groceries,492.07,4,1968.28
+2026-06-25,T-Shirt,Clothing,887.17,16,14194.72
+2026-06-25,Exam Guide,Books & Stationery,452.39,9,4071.51
+2026-06-26,Mouse,Electronics,1788.91,13,23255.83
+2026-06-26,Cookware Set,Home & Kitchen,2500.82,21,52517.22
+2026-06-26,Hoodie,Clothing,1501.4,15,22521.0
+2026-06-27,Tea (500g),Groceries,291.06,1,291.06
+2026-06-28,Speaker,Electronics,2378.99,22,52337.78
+2026-06-28,Rice (5kg),Groceries,290.0,15,4350.0
+2026-06-28,Keyboard,Electronics,2859.54,12,34314.48
+2026-06-29,Electric Kettle,Home & Kitchen,1994.37,14,27921.18
+2026-06-29,Electric Kettle,Home & Kitchen,1578.14,1,1578.14
+2026-06-30,Headphones,Electronics,4945.06,3,14835.18
+2026-06-30,Jacket,Clothing,4036.57,17,68621.69
+2026-06-30,Desk Lamp,Home & Kitchen,483.1,12,5797.2
+2026-07-01,Water Bottle,Home & Kitchen,362.29,15,5434.35
+2026-07-01,Pen Pack,Books & Stationery,109.0,22,2398.0
+2026-07-01,Keyboard,Electronics,2375.07,20,47501.4
+2026-07-04,Backpack,Books & Stationery,1510.97,19,28708.43
+2026-07-04,Sneakers,Clothing,4920.59,13,63967.67
+2026-07-04,Wheat Flour (5kg),Groceries,336.56,5,1682.8
+2026-07-04,Tea (500g),Groceries,189.93,12,2279.16
+2026-07-05,Shirt,Clothing,1693.3,16,27092.8
+2026-07-05,Shirt,Clothing,815.78,21,17131.38
+2026-07-05,Jeans,Clothing,871.93,8,6975.44
+2026-07-06,Exam Guide,Books & Stationery,507.75,20,10155.0
+2026-07-06,Water Bottle,Home & Kitchen,442.49,14,6194.86
+2026-07-06,Bedsheet,Home & Kitchen,1458.16,7,10207.12
+2026-07-07,Notebook,Books & Stationery,46.88,1,46.88
+2026-07-07,Pen Pack,Books & Stationery,167.38,7,1171.66
+2026-07-07,Headphones,Electronics,4659.84,22,102516.48
+2026-07-08,Speaker,Electronics,2557.46,11,28132.06
+2026-07-08,Hoodie,Clothing,1652.65,22,36358.3
+2026-07-08,Speaker,Electronics,4356.85,13,56639.05
+2026-07-10,Water Bottle,Home & Kitchen,557.33,12,6687.96
+2026-07-10,Exam Guide,Books & Stationery,253.53,16,4056.48
+2026-07-11,Jeans,Clothing,1068.12,22,23498.64
+2026-07-11,Sneakers,Clothing,2852.93,15,42793.95
+2026-07-11,Sneakers,Clothing,3128.15,25,78203.75
+2026-07-13,Tea (500g),Groceries,233.69,21,4907.49
+2026-07-13,Shirt,Clothing,1524.17,6,9145.02
+2026-07-15,Calculator,Books & Stationery,785.96,2,1571.92
+2026-07-16,Sugar (1kg),Groceries,54.23,13,704.99
+2026-07-17,Bedsheet,Home & Kitchen,2045.1,16,32721.6
+2026-07-18,Electric Kettle,Home & Kitchen,2087.38,1,2087.38
+2026-07-18,Pen Pack,Books & Stationery,134.96,24,3239.04
+2026-07-18,Wheat Flour (5kg),Groceries,238.44,24,5722.56
+2026-07-18,Tea (500g),Groceries,228.58,25,5714.5
+2026-07-19,Keyboard,Electronics,3133.88,25,78347.0
+2026-07-19,Pen Pack,Books & Stationery,177.49,25,4437.25
+2026-07-20,Headphones,Electronics,3050.61,13,39657.93
+2026-07-21,Electric Kettle,Home & Kitchen,1746.8,16,27948.8
+2026-07-21,Smartwatch,Electronics,10875.07,24,261001.68
+2026-07-21,Calculator,Books & Stationery,1162.33,2,2324.66
+2026-07-22,Tea (500g),Groceries,316.98,17,5388.66
+2026-07-22,Mixer Grinder,Home & Kitchen,4058.78,12,48705.36
+2026-07-23,Speaker,Electronics,5292.46,16,84679.36
+2026-07-23,Cookware Set,Home & Kitchen,5152.39,6,30914.34
+2026-07-24,Speaker,Electronics,6068.38,12,72820.56
+2026-07-24,Shirt,Clothing,1684.21,24,40421.04
+2026-07-25,Headphones,Electronics,1786.87,15,26803.05
+2026-07-25,Mouse,Electronics,966.5,9,8698.5
+2026-07-26,Hoodie,Clothing,1483.72,11,16320.92
+2026-07-27,Shirt,Clothing,1276.56,2,2553.12
+2026-07-29,Cookware Set,Home & Kitchen,1793.75,7,12556.25
+2026-07-29,Keyboard,Electronics,1294.64,8,10357.12
+2026-07-30,Tea (500g),Groceries,196.19,18,3531.42
+2026-07-30,Keyboard,Electronics,1085.39,13,14110.07
+2026-07-31,Mouse,Electronics,1252.85,2,2505.7
+2026-07-31,Exam Guide,Books & Stationery,462.21,5,2311.05
+2026-08-01,Calculator,Books & Stationery,323.09,6,1938.54
+2026-08-01,Bedsheet,Home & Kitchen,2304.0,11,25344.0
+2026-08-01,Keyboard,Electronics,1920.68,4,7682.72
+2026-08-03,Jeans,Clothing,1170.06,15,17550.9
+2026-08-03,Tea (500g),Groceries,390.99,12,4691.88
+2026-08-04,Calculator,Books & Stationery,290.42,7,2032.94
+2026-08-05,Bedsheet,Home & Kitchen,1174.22,10,11742.2
+2026-08-05,Jeans,Clothing,2387.51,25,59687.75
+2026-08-06,Calculator,Books & Stationery,550.65,13,7158.45
+2026-08-08,Laptop,Electronics,65740.48,8,525923.84
+2026-08-08,Backpack,Books & Stationery,2170.23,12,26042.76
+2026-08-08,Power Bank,Electronics,1624.54,24,38988.96
+2026-08-09,T-Shirt,Clothing,868.57,25,21714.25
+2026-08-09,Bedsheet,Home & Kitchen,2302.27,8,18418.16
+2026-08-11,Sneakers,Clothing,1866.33,9,16796.97
+2026-08-11,Sneakers,Clothing,3774.85,3,11324.55
+2026-08-12,Tea (500g),Groceries,184.44,17,3135.48
+2026-08-12,Wheat Flour (5kg),Groceries,249.84,14,3497.76
+2026-08-13,Headphones,Electronics,2027.76,22,44610.72
+2026-08-13,Water Bottle,Home & Kitchen,897.29,8,7178.32
+2026-08-14,Smartphone,Electronics,62272.98,25,1556824.5
+2026-08-15,Sugar (1kg),Groceries,47.81,4,191.24
+2026-08-16,Laptop,Electronics,64845.48,9,583609.32
+2026-08-17,Jeans,Clothing,2534.94,2,5069.88
+2026-08-17,Rice (5kg),Groceries,476.33,25,11908.25
+2026-08-17,Laptop,Electronics,48038.71,19,912735.49
+2026-08-17,Jeans,Clothing,1278.94,2,2557.88
+2026-08-19,Rice (5kg),Groceries,535.08,11,5885.88
+2026-08-20,Pen Pack,Books & Stationery,71.58,3,214.74
+2026-08-20,Tea (500g),Groceries,189.73,12,2276.76
+2026-08-21,Smartwatch,Electronics,8739.01,23,200997.23
+2026-08-21,Sugar (1kg),Groceries,57.08,16,913.28
+2026-08-21,Coffee (200g),Groceries,229.64,2,459.28
+2026-08-23,Headphones,Electronics,1431.91,20,28638.2
+2026-08-24,Keyboard,Electronics,827.68,24,19864.32
+2026-08-24,Notebook,Books & Stationery,145.95,7,1021.65
+2026-08-25,Headphones,Electronics,3262.03,12,39144.36
+2026-08-25,Smartphone,Electronics,58301.88,7,408113.16
+2026-08-26,Rice (5kg),Groceries,362.24,15,5433.6
+2026-08-26,Sneakers,Clothing,5781.91,8,46255.28
+2026-08-27,Calculator,Books & Stationery,501.33,21,10527.93
+2026-08-29,Mixer Grinder,Home & Kitchen,3223.26,9,29009.34
+2026-08-30,Headphones,Electronics,3614.92,6,21689.52
+2026-08-30,Sugar (1kg),Groceries,53.35,13,693.55
+2026-08-30,Water Bottle,Home & Kitchen,512.62,14,7176.68
+2026-08-30,Smartwatch,Electronics,11307.08,7,79149.56
+2026-08-31,Sugar (1kg),Groceries,58.48,10,584.8
+2026-08-31,Smartwatch,Electronics,4689.11,22,103160.42
+2026-09-01,Hoodie,Clothing,936.76,16,14988.16
+2026-09-01,Rice (5kg),Groceries,350.42,21,7358.82
+2026-09-02,Smartphone,Electronics,20793.91,10,207939.1
+2026-09-04,Headphones,Electronics,1342.98,16,21487.68
+2026-09-04,Smartphone,Electronics,14678.64,16,234858.24
+2026-09-04,Headphones,Electronics,2752.7,3,8258.1
+2026-09-04,Tea (500g),Groceries,372.28,13,4839.64
+2026-09-04,Electric Kettle,Home & Kitchen,1081.79,21,22717.59
+2026-09-07,Smartwatch,Electronics,8911.37,10,89113.7
+2026-09-08,Mixer Grinder,Home & Kitchen,2195.97,18,39527.46
+2026-09-10,Electric Kettle,Home & Kitchen,1232.15,15,18482.25
+2026-09-10,Mouse,Electronics,1501.78,10,15017.8
+2026-09-10,T-Shirt,Clothing,608.31,20,12166.2
+2026-09-10,Jeans,Clothing,1354.39,22,29796.58
+2026-09-12,Wheat Flour (5kg),Groceries,230.13,17,3912.21
+2026-09-14,Water Bottle,Home & Kitchen,426.67,20,8533.4
+2026-09-16,Power Bank,Electronics,2186.43,18,39355.74
+2026-09-18,Laptop,Electronics,37310.69,16,596971.04
+2026-09-18,Electric Kettle,Home & Kitchen,2063.11,6,12378.66
+2026-09-21,Wheat Flour (5kg),Groceries,261.26,11,2873.86
+2026-09-22,Smartphone,Electronics,54902.34,14,768632.76
+2026-09-22,Notebook,Books & Stationery,132.67,10,1326.7
+2026-09-23,Water Bottle,Home & Kitchen,679.15,15,10187.25
+2026-09-23,Smartwatch,Electronics,2316.17,13,30110.21
+2026-09-23,Bedsheet,Home & Kitchen,802.75,14,11238.5
+2026-09-23,Headphones,Electronics,4415.12,18,79472.16
+2026-09-25,Smartphone,Electronics,47082.25,25,1177056.25
+2026-09-26,Tea (500g),Groceries,259.16,21,5442.36
+2026-09-27,Electric Kettle,Home & Kitchen,852.63,17,14494.71
+2026-09-27,Cooking Oil (1L),Groceries,120.46,21,2529.66
+2026-09-28,Sneakers,Clothing,5724.67,14,80145.38
+2026-09-29,Speaker,Electronics,5824.05,18,104832.9
+2026-09-30,Smartphone,Electronics,21941.87,12,263302.44
+2026-10-01,Rice (5kg),Groceries,479.32,9,4313.88
+2026-10-02,Mouse,Electronics,1538.58,25,38464.5
+2026-10-02,Rice (5kg),Groceries,454.34,19,8632.46
+2026-10-02,Exam Guide,Books & Stationery,469.36,6,2816.16
+2026-10-03,T-Shirt,Clothing,1147.01,24,27528.24
+2026-10-04,Water Bottle,Home & Kitchen,733.26,16,11732.16
+2026-10-05,Headphones,Electronics,2225.11,19,42277.09
+2026-10-05,Keyboard,Electronics,2232.28,9,20090.52
+2026-10-06,Rice (5kg),Groceries,355.36,7,2487.52
+2026-10-07,Shirt,Clothing,1492.29,24,35814.96
+2026-10-08,Water Bottle,Home & Kitchen,154.79,5,773.95
